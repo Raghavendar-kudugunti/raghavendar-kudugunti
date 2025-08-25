@@ -51,7 +51,7 @@
 ## 🔗 Links
 
 <p>
-  <a href="https://www.linkedin.com/in/rasool-shaikh-7a4923227/">
+  <a href="https://www.linkedin.com/in/raghavendark/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;
